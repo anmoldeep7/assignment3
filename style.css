@@ -1,0 +1,47 @@
+body {
+    font-size: 14px;
+    
+    font-family: Arial, sans-serif;
+}
+p,h1,h2{
+	color: black;} 
+h2{ 
+	font-weight: bold;}
+p{
+    padding:10px 20px 15px 20px;
+}
+
+#header-nav {
+  background-color: maroon;
+}
+  
+.navbar-brand {
+    padding-top: 25px;
+    font-size: 30px;
+    color: black;
+}
+.nav-link{
+	color: black;	
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus, #nav-list a:hover {
+    text-decoration: none;
+}
+#main{
+	margin-top: 30px;
+} 
+.container{
+
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+.box{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    background-color: maroon;
+}
+
+ 
